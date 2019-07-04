@@ -2,9 +2,6 @@
 
 This is the first file in this repo.
 
-## ipsum content
+#Website contents
 
-Adding text for the same file. in the video it seems the directory has changed
-it should have been under website directory but instead it is showing in git-demo directory
-
-Adding some more stuff(3rd time)
+I am backing out some changes
