@@ -12,4 +12,8 @@ I am backing out some changes
 
 ##Changes to the origin
 
-## introducing conflict
+
+
+=======
+#change at the origin
+>>>>>>> 9d22cd230a652fb80e679e82f954b920d5e0347b
